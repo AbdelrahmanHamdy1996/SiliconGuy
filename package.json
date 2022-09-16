@@ -2,6 +2,9 @@
   "name": "the-weirdos",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "~1.0.20"
+  },
   "dependencies": {
     "@fontsource/akaya-telivigala": "^4.5.2",
     "@fontsource/sora": "^4.5.3",
