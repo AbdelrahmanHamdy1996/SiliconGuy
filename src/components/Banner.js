@@ -147,7 +147,7 @@ const Banner = () => {
             <img width={500} height={400}  src={img6} alt="Silicon Guy" />
 
         </ImgContainer>
-        <Title>Join the  <br /> weirdos club  </Title>
+        <Title>Join the  <br /> Silicon Guy Club  </Title>
         <BtnContainer>
         <a href="https://www.discord.com" aria-label={"Join Now"} target="_blank" rel="noreferrer" >
         <JoiNow>
