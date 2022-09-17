@@ -154,7 +154,7 @@ const About = () => {
           <Carousel /> </Suspense> </Box>
         <Box> 
         <Title>
-        Welcome To The <br /> Weirdos Club.
+        Welcome To The <br /> Silicon Guy Club.
         </Title>
         <SubText>
         The WEIRDOS CLUB is a private collection of NFTs—unique digital collectibles. The Weirdos are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.

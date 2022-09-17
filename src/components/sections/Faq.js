@@ -108,7 +108,7 @@ useLayoutEffect(() => {
 
   </Accordion>
   <Accordion ScrollTrigger={ScrollTrigger} title="WHY DO WE NEED ROYALTIES?" >
-  The amount of royalties was fixed at 5% to finance the Weirdos Club's projects. We have the ambition to organize multiple events around the world in order to strengthen the community and build a network of entrepreneurs and investors with the same mindset and common interests.
+  The amount of royalties was fixed at 5% to finance the Silicon Guy Club's projects. We have the ambition to organize multiple events around the world in order to strengthen the community and build a network of entrepreneurs and investors with the same mindset and common interests.
   </Accordion>
 </Box>
 <Box>
