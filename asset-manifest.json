@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.f1bf0de7.css",
-    "main.js": "/static/js/main.0c85afc5.js",
+    "main.js": "/static/js/main.5b8d716e.js",
     "static/css/641.beeadcd5.chunk.css": "/static/css/641.beeadcd5.chunk.css",
     "static/js/641.82e8fe57.chunk.js": "/static/js/641.82e8fe57.chunk.js",
-    "static/js/435.1bc31ec0.chunk.js": "/static/js/435.1bc31ec0.chunk.js",
+    "static/js/435.53479a37.chunk.js": "/static/js/435.53479a37.chunk.js",
     "static/js/96.317b9f60.chunk.js": "/static/js/96.317b9f60.chunk.js",
     "static/js/551.5344a11c.chunk.js": "/static/js/551.5344a11c.chunk.js",
     "static/js/370.8f5020aa.chunk.js": "/static/js/370.8f5020aa.chunk.js",
@@ -12,8 +12,8 @@
     "static/js/165.e6137fbe.chunk.js": "/static/js/165.e6137fbe.chunk.js",
     "static/media/bighead-2.svg": "/static/media/bighead-2.f542fcb606c333df41ceb7bef69dbf12.svg",
     "static/media/bighead.svg": "/static/media/bighead.33aaba96466e7b5b3710583d837924a1.svg",
+    "static/media/Home Video.mp4": "/static/media/Home Video.7564d98b1f21109c342a.mp4",
     "static/media/bighead-1.svg": "/static/media/bighead-1.45b7003b1a5020fbe2ec472f4ad6eddb.svg",
-    "static/media/Home Video.mp4": "/static/media/Home Video.d4bf2265b2f4a01a1582.mp4",
     "static/media/akaya-telivigala-all-400-normal.woff": "/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
     "static/media/akaya-telivigala-telugu-400-normal.woff2": "/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
     "static/media/akaya-telivigala-latin-400-normal.woff2": "/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
@@ -31,10 +31,10 @@
     "static/media/Arrow.svg": "/static/media/Arrow.2aa046cef6c722596b055a335b4a9792.svg",
     "index.html": "/index.html",
     "main.f1bf0de7.css.map": "/static/css/main.f1bf0de7.css.map",
-    "main.0c85afc5.js.map": "/static/js/main.0c85afc5.js.map",
+    "main.5b8d716e.js.map": "/static/js/main.5b8d716e.js.map",
     "641.beeadcd5.chunk.css.map": "/static/css/641.beeadcd5.chunk.css.map",
     "641.82e8fe57.chunk.js.map": "/static/js/641.82e8fe57.chunk.js.map",
-    "435.1bc31ec0.chunk.js.map": "/static/js/435.1bc31ec0.chunk.js.map",
+    "435.53479a37.chunk.js.map": "/static/js/435.53479a37.chunk.js.map",
     "96.317b9f60.chunk.js.map": "/static/js/96.317b9f60.chunk.js.map",
     "551.5344a11c.chunk.js.map": "/static/js/551.5344a11c.chunk.js.map",
     "370.8f5020aa.chunk.js.map": "/static/js/370.8f5020aa.chunk.js.map",
@@ -43,6 +43,6 @@
   },
   "entrypoints": [
     "static/css/main.f1bf0de7.css",
-    "static/js/main.0c85afc5.js"
+    "static/js/main.5b8d716e.js"
   ]
 }
