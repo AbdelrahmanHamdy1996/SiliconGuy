@@ -160,11 +160,11 @@ const About = () => {
         The SILICON GUY CLUB is a Public collection of NFTs—unique digital collectibles. Silicon Guy are stored as ERC-1155 tokens on the Ethereum blockchain.
         </SubText>
         <SubTextLight>
-        With more than 200+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.
+        With more than 150+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.
         </SubTextLight>
         <ButtonContainer>
         <ThemeProvider theme={dark}>
-        <Button text="JOIN OUR DISCORD" link="https://google.com" />
+        <Button text="JOIN OUR DISCORD" link="https://discord.com/invite/dCBCZnx7" />
         </ThemeProvider>
         </ButtonContainer>
          </Box>
