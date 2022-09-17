@@ -136,7 +136,7 @@ let pause = (e) => {
       <img width={500} height={400}  src={img} alt="Silicon Guy" />
       <Details>
         <div>
-          <span>Weirdos</span> <br />
+          <span>Silicon Guy</span> <br />
           <h1>#{number}</h1>
         </div>
 
