@@ -149,7 +149,7 @@ const Banner = () => {
         </ImgContainer>
         <Title>Join the  <br /> Silicon Guy Club  </Title>
         <BtnContainer>
-        <a href="https://discord.com/invite/dCBCZnx7" aria-label={"Join Now"} target="_blank" rel="noreferrer" >
+        <a href="https://discord.com/invite/kZF9CPNXBp" aria-label={"Join Now"} target="_blank" rel="noreferrer" >
         <JoiNow>
             Join Now
         </JoiNow>
